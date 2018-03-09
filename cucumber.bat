@@ -1,0 +1,1 @@
+call mvn -f E:\demo\project\pom.xml clean test -Dcucumber.options="--plugin junit:tagret_junit/cucumber.xml"
